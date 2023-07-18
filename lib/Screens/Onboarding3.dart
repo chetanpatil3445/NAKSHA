@@ -1,7 +1,7 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:naksha/Screens/Otp_verification.dart';
-import 'package:naksha/Screens/Signin.dart';
+import 'package:naksha/Screens/Enable-LOCATION.dart';
 import 'package:naksha/Screens/Signin_Page.dart';
 import 'package:naksha/Screens/Signup.dart';
 
